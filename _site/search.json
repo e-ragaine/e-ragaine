@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\nThings about myself la la la"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My Website",
+    "section": "",
+    "text": "\\(\\sigma^2 + \\alpha\\)"
+  },
+  {
+    "objectID": "index.html#hello",
+    "href": "index.html#hello",
+    "title": "My Website",
+    "section": "",
+    "text": "\\(\\sigma^2 + \\alpha\\)"
+  }
+]
