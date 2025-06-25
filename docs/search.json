@@ -4,13 +4,27 @@
     "href": "index.html",
     "title": "My Website",
     "section": "",
-    "text": "My name is Em Ragaine and I am 4th year student studying Statistics at the University of Georgia."
+    "text": "My name is Em Ragaine, and I am 4th year student studying Statistics at the University of Georgia."
   },
   {
     "objectID": "index.html#hello",
     "href": "index.html#hello",
     "title": "My Website",
     "section": "",
-    "text": "My name is Em Ragaine and I am 4th year student studying Statistics at the University of Georgia."
+    "text": "My name is Em Ragaine, and I am 4th year student studying Statistics at the University of Georgia."
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "experience",
+    "section": "",
+    "text": "Things i have done!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\nThings about myself la la la"
   }
 ]
